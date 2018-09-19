@@ -1,0 +1,10 @@
+A:\C#\ITVitae\opdract 3 Versleutelen (Rood)\Simpele Decryptie\Simpele Decryptie\bin\Debug\Simpele Decryptie.exe.config
+A:\C#\ITVitae\opdract 3 Versleutelen (Rood)\Simpele Decryptie\Simpele Decryptie\bin\Debug\Simpele Decryptie.exe
+A:\C#\ITVitae\opdract 3 Versleutelen (Rood)\Simpele Decryptie\Simpele Decryptie\bin\Debug\Simpele Decryptie.pdb
+A:\C#\ITVitae\opdract 3 Versleutelen (Rood)\Simpele Decryptie\Simpele Decryptie\obj\Debug\Simpele Decryptie.csprojAssemblyReference.cache
+A:\C#\ITVitae\opdract 3 Versleutelen (Rood)\Simpele Decryptie\Simpele Decryptie\obj\Debug\Simpele_Decryptie.Properties.Resources.resources
+A:\C#\ITVitae\opdract 3 Versleutelen (Rood)\Simpele Decryptie\Simpele Decryptie\obj\Debug\Simpele Decryptie.csproj.GenerateResource.cache
+A:\C#\ITVitae\opdract 3 Versleutelen (Rood)\Simpele Decryptie\Simpele Decryptie\obj\Debug\Simpele Decryptie.csproj.CoreCompileInputs.cache
+A:\C#\ITVitae\opdract 3 Versleutelen (Rood)\Simpele Decryptie\Simpele Decryptie\obj\Debug\Simpele Decryptie.exe
+A:\C#\ITVitae\opdract 3 Versleutelen (Rood)\Simpele Decryptie\Simpele Decryptie\obj\Debug\Simpele Decryptie.pdb
+A:\C#\ITVitae\opdract 3 Versleutelen (Rood)\Simpele Decryptie\Simpele Decryptie\obj\Debug\Simpele_Decryptie.frmDEC.resources
